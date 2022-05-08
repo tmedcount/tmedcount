@@ -28,7 +28,7 @@
 
 <br />
 
-![tmedcount's github stats](https://github-readme-stats.vercel.app/api?username=tmedcount&show_icons=true)[![tmedcount's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmedcount&langs_count=10&layout=compact&theme=default)](https://github.com/tmedcount)
+![tmedcount's github stats](https://github-readme-stats.vercel.app/api?username=tmedcount&show_icons=true)
 
 
 
