@@ -4,9 +4,6 @@
 새로운 지식과 기술을 배우는 것을 즐기며, 함께 성장하는 가치를 중요시 합니다.
 
 주로 Java & Spring 을 학습해 왔고 기술 블로그와 스프링 부트 커뮤니티를 만드려고 하고 있습니다.
-
-<br />
-
 ## 🛠 Skills
 ### Platforms & Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
@@ -25,15 +22,10 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-
-<br />
-
 ## :mailbox_with_mail: Contacts
 <!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://#)](https://#)-->
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tmedcount@gmail.com)](mailto:tmedcount@gmail.com)
 
-<br />
-<br />
 <br />
 
 ![tmedcount's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmedcount&show_icons=true&theme=radical)
